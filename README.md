@@ -2,13 +2,11 @@
 
 ### Bioinformatician | 23 y.o.
 
----
 
 ## 🌍 About Me  
 - 🎓 Earned a BSc in Health Biotechnology, and almost a MSc in Bioinformatics.  
 - 🚀 Love applying deep learning to real-world biological problems.  
 
----
 
 ## 💻 Skills  
 - **Programming**: Python, R, Bash  
@@ -16,7 +14,6 @@
 - **NGS Analysis**: ChIP-seq, ATAC-seq, RNA-seq, Variant Analysis  
 - **Visualization & Libraries**: matplotlib, seaborn, pandas, TensorFlow, scikit-learn, Keras  
 - **Tools**: Anaconda, Docker, Git  
-
 
 
 ### Get in touch 
