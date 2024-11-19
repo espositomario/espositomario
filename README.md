@@ -1,6 +1,22 @@
-## Hi there 👋, I'm Mario!
+# Hi, I'm Mario 👋  
+**Bioinformatician | MSc Student **  
 
-I 
+---
+
+## 🌍 About Me  
+- 🎓 Earned a BSc in Health Biotechnology, and almost a MSc in Bioinformatics.  
+- 🚀 Love applying deep learning to real-world biological problems.  
+
+---
+
+## 💻 Skills  
+- **Programming**: Python, R, Bash  
+- **ML/DL Modeling**: Deep Neural Networks (DNN), CNNs, VAEs, SVMs, Random Forests, HMMs  
+- **NGS Analysis**: ChIP-seq, ATAC-seq, RNA-seq, Variant Analysis  
+- **Visualization & Libraries**: matplotlib, seaborn, pandas, TensorFlow, scikit-learn, Keras  
+- **Tools**: Anaconda, Docker, Git  
+
+
 
 ### Get in touch 
 
