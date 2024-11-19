@@ -7,7 +7,8 @@
 - 🎓 Earned a BSc in Health Biotechnology, and almost a MSc in Bioinformatics.  
 - 🚀 Love applying deep learning to real-world biological problems.  
 
-## 💻 Skills
+
+## 💻 Skills
 **Programming and OS**: Python, Bash, R, Linux, MacOS
 **Modeling**: Deep Learning (DNN, CNN, AE, VAE), Machine Learning (SVM, Random Forest, HMM, Regression)
 **Bioinformatics**: NGS processing and analysis (ChIP-seq, ATAC-seq, RNA-seq, WES-seq), Statistical analysis, Data visualization
