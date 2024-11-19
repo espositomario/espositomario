@@ -8,12 +8,12 @@
 - 🚀 Love applying deep learning to real-world biological problems.  
 
 
-## 💻 Skills
-**Programming and OS**: Python, Bash, R, Linux, MacOS
-**Modeling**: Deep Learning (DNN, CNN, AE, VAE), Machine Learning (SVM, Random Forest, HMM, Regression)
-**Bioinformatics**: NGS processing and analysis (ChIP-seq, ATAC-seq, RNA-seq, WES-seq), Statistical analysis, Data visualization
-**Python Libraries**: scikit-learn, Keras, TensorFlow, pandas, SciPy, NumPy, matplotlib, seaborn
-**Other Tools**: Anaconda, Docker, Git, PowerPoint, VSCode
+##  Skills
+- 💻 **Programming and OS**: Python, Bash, R, Linux, MacOS
+- 📈 **Modeling**: Deep Learning (DNN, CNN, AE, VAE), Machine Learning (SVM, Random Forest, HMM, Regression)
+- 🧬 **Bioinformatics**: NGS processing and analysis (ChIP-seq, ATAC-seq, RNA-seq, WES-seq), Statistical analysis, Data visualization
+- 🐍 **Python Libraries**: scikit-learn, Keras, TensorFlow, pandas, SciPy, NumPy, matplotlib, seaborn
+- **Other Tools**: Anaconda, Docker, Git, PowerPoint, VSCode
 
 
 Check out my GitHub repositories with academic and personal projects showcasing my work in bioinformatics, deep learning, and NGS analysis. 
