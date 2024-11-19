@@ -1,5 +1,6 @@
 # Hi, I'm Mario 👋  
-**Bioinformatician | MSc Student **  
+
+### Bioinformatician | 23 y.o.
 
 ---
 
