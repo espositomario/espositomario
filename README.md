@@ -18,7 +18,8 @@
 
 Check out my GitHub repositories with academic and personal projects showcasing my work in bioinformatics, deep learning, and NGS analysis. 
 
-Interested in my professional experience? Visit my [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esposito-mario/) for more insights.
+Interested in my professional experience? Visit my for more insights.
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esposito-mario/)
 [![Email Me](https://img.shields.io/badge/Email%20Me-orange?style=flat-square)](mailto:01.esposito.mario@gmail.com?body=Dear%20Mario%2C%0A&bcc=01.esposito.mario@gmail.com)
 
