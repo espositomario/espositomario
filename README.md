@@ -5,7 +5,7 @@
 
 ## 🌍 About Me  
 - 🎓 Earned a BSc in Health Biotechnology, and almost a MSc in Bioinformatics.  
-- 🚀 Love applying deep learning to real-world biological problems.  
+- 🚀 Love applying machine learning to real-world biological problems.  
 
 
 ##  Skills
