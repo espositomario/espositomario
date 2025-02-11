@@ -12,7 +12,7 @@
 - 💻 **Programming and OS**: Python, Bash, R, Linux, MacOS
 - 📈 **Modeling**: Deep Learning (DNN, CNN, AE, VAE), Machine Learning (SVM, Random Forest, HMM, Regression)
 - 🧬 **Bioinformatics**: NGS processing and analysis (ChIP-seq, ATAC-seq, RNA-seq, WES-seq), Statistical analysis, Data visualization
-- 🐍 **Python Libraries**: scikit-learn, Keras, TensorFlow, pandas, SciPy, NumPy, matplotlib, seaborn
+- 🐍 **Python Libraries**: scikit-learn, Keras, TensorFlow, pandas, SciPy, NumPy, matplotlib, seaborn, SHAP
 - 🛠️ **Other Tools**: Anaconda, Docker, Git, Streamlit, VSCode
 
 
