@@ -1,6 +1,6 @@
 # Hi, I'm Mario 👋  
 
-### Bioinformatician | 23 y.o.
+### Bioinformatician | 24 y.o.
 
 
 ## 🌍 About Me  
