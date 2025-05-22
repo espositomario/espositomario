@@ -1,7 +1,5 @@
 # Hi, I'm Mario 👋  
 
-### Bioinformatician | 24 y.o.
-
 
 ## 🌍 About Me  
 - 🎓 MSc in Bioinformatics (Univeristy of Bologna) and BSc in Health Biotechnology (University of Naples Federico II)
